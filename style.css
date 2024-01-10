@@ -42,5 +42,8 @@ div{
     display: flex;
     justify-content: center;
     align-items: center;
+    text-shadow:0 0 10px rgb(68, 183, 203),
+    0 0 20px rgb(68, 183, 203),
+     0 0 40px white;
 
 }

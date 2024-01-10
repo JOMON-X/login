@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(17, 30, 30) !important;
+
+}
+div{
+    color:rgb(68, 183, 203)!important;
+    text-shadow: 0 0 10px rgb(68, 183, 203);
+                   
+
+}
+
+.bt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+
+}
+
+.butt{
+
+    
+    border: 3px solid rgb(68, 183, 203);
+    border-radius: 50px;
+    color: whitesmoke;
+    background-color: rgba(0,0,0,0.2);
+    padding: 9px 30px;
+    text-shadow: 0 0 10px rgb(68, 183, 203),
+                 0 0 20px rgb(68, 183, 203);
+}
+.butt:hover{
+    background-color: rgb(68, 183, 203) ;
+    transition: all 0.4s ease 0s;
+}
+
+.alert-danger{
+    background-color: rgb(212, 58, 58) !important;
+    text-align: center;
+}
+
+.head{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
